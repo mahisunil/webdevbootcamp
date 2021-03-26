@@ -1,0 +1,70 @@
+.qtext {
+    background-image: url("https://s1.1zoom.me/b5050/512/Castles_Germany_Hohenzollern_Castle_Hill_565862_1920x1080.jpg");
+    height: 599px;
+    width: auto;
+    color: white;
+
+}
+.qtext-text h1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+
+.qtext-text {
+    padding-top: 100px;
+}
+.pro1 {
+    padding: 110px;
+    color: black;
+
+}
+.name1 { 
+    
+    
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.name2 {
+    text-align: center;
+}
+.name3 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.coimg img {
+    width: 450px;
+}
+
+.name5 {
+
+    color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background-image: url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_1208082286_427081.jpg);
+}
+.name6{
+    text-align: center;
+    padding-top: 50px;
+}
+.name7 {
+
+    text-align: center;
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    padding-bottom:50px ;
+}
+
+.footer{
+    padding-top: 30px;
+}
+
+.footer li {
+    font-size: 25px;
+    color: white;
+    padding-right: 20px;
+    margin-right: 20px;
+}
